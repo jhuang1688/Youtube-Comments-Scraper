@@ -1,6 +1,6 @@
 # Youtube Comments Scraper
 
-Python script that scrapes top three comments of top videos based off search query
+Python script that scrapes top three comments of top videos based off search query. 
 
 ## How to use:
 
